@@ -6,7 +6,10 @@
 - 💬 Previously worked on projects relating to Wireless Networks(Wifi-7).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/siddharth-rajput-8a91b0233/).
 
-![Siddharth's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajputsiddharth&theme=gotham&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajputsiddharth&theme=tokyonight&layout=compact&langs_count=8&card_width=400&count_private=true" width="400px"> 
+</p>
+
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) -->
 <!-- ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) -->
 <!-- ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) -->
